@@ -9,8 +9,8 @@ import drive.Display;
 public class VMDriver {
 
 	public static void main(String[] args) {		
-		Display d=new Display();
-		d.begin();
+		Display dis=new Display();
+		dis.begin();
 	}
 	
 }
